@@ -1,0 +1,2 @@
+rootProject.name='Day4_count_test'
+include ':app'
