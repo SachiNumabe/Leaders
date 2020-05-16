@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
         if (number % 3 == 0 && number != 0){
             textView.setTextColor(Color.RED)
         }else{
-            textView.setTextColor(Color.BLACK)
+            textView.setTextColor(Color.BLUE)
         }
     }
 }
